@@ -1,0 +1,7 @@
+{
+  "first_layer_size": 794,
+  "count_of_hidden_layers": 10,
+  "last_layer_size": 10,
+  "batch_size": 256,
+  "weight_decay": 0.0001
+}
