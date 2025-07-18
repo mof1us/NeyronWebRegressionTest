@@ -18,7 +18,7 @@ class Web:
         self.learning_data_size = learning_data_size
         self.learning_rate = learning_rate
         self.logger = logging.getLogger(__name__)
-        self.logger.setLevel(logging.DEBUG)
+        self.logger.setLevel(logging.DEBUGHHHHH)
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.DEBUG)
         # self.logger.addHandler(console_handler)
