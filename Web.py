@@ -22,7 +22,7 @@ class Web:
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.DEBUG)
         # self.logger.addHandler(console_handler)
-
+        #sdgjksbhgjisgnhas
         self.layer_sizes: list[int] = [self.first_layer_size]
         self.weights: list[np.ndarray] = []
         self.biases: list[np.ndarray] = []
